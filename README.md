@@ -1,1 +1,1 @@
-# salary-pred
+# Heroku-Demo
